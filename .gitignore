@@ -1,0 +1,32 @@
+# Node dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Uploads and generated files
+uploads/
+report.csv
+
+# Misc artifacts
+*.jpg
+*.key
+*.log
+*.zip
+
+# Dependency locks
+package-lock.json
+yarn.lock
+
+# OS & editor junk
+.DS_Store
+*.swp
+*.swo
+*.tmp
+
+# Other folders
+OTHER/
+
+*.yml
+vcr-accor-yml
+vcr-walter-yml
